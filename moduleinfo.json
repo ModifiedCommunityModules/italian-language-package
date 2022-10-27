@@ -3,10 +3,10 @@
     "archiveName": "modifiedcommunitymodules/italian-language-package",
     "sourceDir": "new_files",
     "version": "auto",
- 
+
     "shortDescription": "Sprachpaket italienisch",
     "description": "Italienisches Sprachpaket ab Modified 2.0.5.0",
-	
+
     "price": "free",
     "developer": "Von vielen Entwicklern",
     "developerWebsite": "https://www.modified-shop.org/forum/index.php?topic=30394",
@@ -14,7 +14,7 @@
     "category": "language",
 
     "modifiedCompatibility": [
-        "2.0.5.0", "2.0.5.1", "2.0.6.0"
+        "2.0.5.0", "2.0.5.1", "2.0.6.0", "2.0.7.2"
     ],
 
     "require": {
